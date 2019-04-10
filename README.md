@@ -1,6 +1,8 @@
 # anti996solidarity 996关注组  
 这是民间自发支持程序员抗议996的信息集散地。 
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>  
+
 ## 项目：
 ### 向互联网公司投递倡议书
 2019年4月1日，向9家传闻中加班文化盛行的互联网公司提交了倡议书。具体请见[链接](https://mp.weixin.qq.com/s?__biz=MzIwNTY1NTU5NA==&mid=2247484014&idx=1&sn=8444b2427f72706e5f315dec3ce2e959&chksm=972cd92ba05b503d8122b3bcfc370246e04f7c3f2a9e64ffb3616c7615dd9ec1861407aabf44&scene=21#wechat_redirect) 。中国数字时代的备份[在此](https://chinadigitaltimes.net/chinese/2019/04/shachiku%E4%B8%9C%E4%BA%9A%E4%BF%9D%E5%BB%BA%E6%89%80-%E6%88%91%E4%BB%AC%E5%90%919%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E9%80%92%E4%BA%A4%E4%BA%86%E5%80%A1%E8%AE%AE%E4%B9%A6/)。   
