@@ -6,6 +6,8 @@
 2019年4月1日，向9家传闻中加班文化盛行的互联网公司提交了倡议书。具体请见[链接](https://mp.weixin.qq.com/s?__biz=MzIwNTY1NTU5NA==&mid=2247484014&idx=1&sn=8444b2427f72706e5f315dec3ce2e959&chksm=972cd92ba05b503d8122b3bcfc370246e04f7c3f2a9e64ffb3616c7615dd9ec1861407aabf44&scene=21#wechat_redirect) 。中国数字时代的备份[在此](https://chinadigitaltimes.net/chinese/2019/04/shachiku%E4%B8%9C%E4%BA%9A%E4%BF%9D%E5%BB%BA%E6%89%80-%E6%88%91%E4%BB%AC%E5%90%919%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E9%80%92%E4%BA%A4%E4%BA%86%E5%80%A1%E8%AE%AE%E4%B9%A6/)。   
 2019年4月10日，在线下投递无果后，决定每周向996黑名单中在列的互联网公司邮箱投递倡议书，直到它们进行公开答复。第一周的总结请见[链接](https://mp.weixin.qq.com/s/t9uB2iA2hCtcur5kJLjmnw)。接下来的邮件将于每周一发出。  
 
+倡议书全文[链接](https://github.com/shad0wsek1ro/anti996solidarity/blob/master/open_letter_to_tech_companies.md)
+
 投递名单来自程序员在github上投票得到的名单，参考原链接
 https://github.com/996icu/996.ICU/blob/master/blacklist/README.md  
 https://feathub.com/LinXueyuanStdio/996.ICU
