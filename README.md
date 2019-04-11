@@ -1,4 +1,4 @@
-# anti996solidarity 996关注组  
+# 996.Solidarity/996关注组  
 这是民间自发支持程序员抗议996的信息集散地。 
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>  
