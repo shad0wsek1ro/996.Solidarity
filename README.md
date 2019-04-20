@@ -45,3 +45,7 @@ https://feathub.com/LinXueyuanStdio/996.ICU
 
 具体请见[链接](https://mp.weixin.qq.com/s/3XQo1nHKnZ9r2LOvnj7o7Q)
 
+### 4月20日针对阿里侵犯名誉权投诉的声明
+4月16日下午，帮忙发布众筹消息的“Shachiku东亚保建所”公众号收到了微信平台的“侵权投诉”通知，投诉方为：浙江淘宝网络有限公司，投诉内容包括：文章脱离上下文语境，故意曲解马云观点，严重侵犯了马云和阿里集团的名誉权。  
+
+我们对阿里集团歪曲事实的投诉和施压表示抗议！具体请见[链接](https://mp.weixin.qq.com/s/paESkVrX4AgLL_yQ6JbIxQ)
