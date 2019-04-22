@@ -49,3 +49,7 @@ https://feathub.com/LinXueyuanStdio/996.ICU
 4月16日下午，帮忙发布众筹消息的“Shachiku东亚保建所”公众号收到了微信平台的“侵权投诉”通知，投诉方为：浙江淘宝网络有限公司，投诉内容包括：文章脱离上下文语境，故意曲解马云观点，严重侵犯了马云和阿里集团的名誉权。  
 
 我们对阿里集团歪曲事实的投诉和施压表示抗议！具体请见本计划备份[链接](https://github.com/shad0wsek1ro/996.Solidarity/blob/master/%E9%92%88%E5%AF%B9%E9%98%BF%E9%87%8C%E6%8A%95%E8%AF%89%E4%BE%B5%E6%9D%83%E7%9A%84%E5%A3%B0%E6%98%8E.md)，或微信原[链接](https://mp.weixin.qq.com/s/paESkVrX4AgLL_yQ6JbIxQ)
+
+### 法律问题讨论
+[论坛围观：“996事件”法律问题研究](https://github.com/shad0wsek1ro/996.Solidarity/blob/master/%E8%AE%BA%E5%9D%9B%E5%9B%B4%E8%A7%82%EF%BC%9A%E2%80%9C996%E4%BA%8B%E4%BB%B6%E2%80%9D%E6%B3%95%E5%BE%8B%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.md)
+
